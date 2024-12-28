@@ -180,9 +180,6 @@ import PlayLoading from "../components/PlayLoading.vue";
 import PlayTop from "../components/PlayTop.vue";
 import PlayStatus from "../components/PlayStatus.vue";
 import {
-  defineExpose,
-  defineEmits,
-  defineProps,
   reactive,
   ref,
   onMounted,

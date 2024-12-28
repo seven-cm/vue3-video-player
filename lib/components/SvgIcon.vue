@@ -6,6 +6,7 @@
 </template>
 
 <script lang="ts">
+import 'virtual:svg-icons-register';
 import { defineComponent } from "vue";
 import { isExternal as external } from "../utils/validate";
 
